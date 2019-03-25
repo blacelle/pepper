@@ -11,9 +11,9 @@
     <packaging>jar</packaging>
 
     <properties>
-        <roaringbitmap.version>0.6.65</roaringbitmap.version>
-        <fastpfor.version>0.1.11</fastpfor.version>
-        <fastutil.version>8.1.0</fastutil.version>
+        <roaringbitmap.version>0.6.66</roaringbitmap.version>
+        <fastpfor.version>0.1.12</fastpfor.version>
+        <fastutil.version>8.1.1</fastutil.version>
 
         <!-- TODO -->
         <jacoco.instruction.ratio>0.0</jacoco.instruction.ratio>
